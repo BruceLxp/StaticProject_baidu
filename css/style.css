@@ -1,0 +1,38 @@
+*{margin:0;padding:0;list-style:none;font-size:15px;}
+.top{height:44px;}
+.top_ul{position:absolute;right:100px;line-height:44px;}
+.top_ul>li{float:left;margin-left:25px;}
+.top_ul li a{color:#333;}
+.div{width:68px;height:106px;position:absolute;right:-18px;top:30px;display:none;}
+.div1{width:0px;border:10px solid;border-color:#ccc rgba(1,1,1,0);border-top:none;margin:0 auto;}
+.div2{width:0px;border:10px solid;border-color:white rgba(1,1,1,0);border-top:none;margin:-9px auto;position:relative;}
+.ul2{border:1px solid #ccc;margin-top:8px;text-align:center;}
+.ul2 li{font-size:12px;}
+.ul2 li:hover{background-color:#06f;}
+.dianji:hover .div{display:block;}
+
+/*我是分割线*/
+.right_ul{width:86px;background-color:rgb(250,250,250);position:absolute;top:0;right:0;border-left:1px solid #ccc;}
+.gdcp{width:85px;height:50px;text-align:center;line-height:44px;color:#333;}
+.right_ul li a{display:block;width:66px;height:77px;margin:0 auto;text-align:center;text-decoration:none;color:#666;border-top:1px solid #ccc;}
+.right_ul li a span{font-size:5px;}
+#qbcp{line-height:30px;font-size:12px;text-decoration:underline;}
+.baidu{display:block;width:36px;height:36px;background-image:url(../images/bdbri_icons_2e35e84b.png);margin:10px auto 5px;background-color:#eee;}
+.zhidao{background-position:-36px top;}
+.yinyue{width:40px;background-position:-72px top;}
+.tupian{width:32px;background-position:-112px top;}
+.wenku{background-position:-144px top;}
+.fengyunbang{width:40px;background-position:-180px top;}
+.baidutuiguang{width:34px;background-position:-220px top;}
+
+/*我是分割线*/
+.main{text-align:center;}
+img{width:270px;}
+form{margin:0 auto;width:641px;}
+.text{width:540px;height:40px;border:1px solid #ccc;border-right:none;}
+.bdyx{display:block;width:100px;height:42px;background-color:#06f;text-decoration:none;text-align:center;line-height:42px;color:white;font-size:18px;float:right;}
+
+/*我是分割线*/
+.foot{text-align:center;margin-top:300px;}
+.foot_p1 a{color:#06f;}
+.foot_p2,.foot_p2 a{color:#999;}
